@@ -12,5 +12,5 @@ We aim to explore whether the spatial distributions of CSVD markers are diverse 
 - Laboratory profiles
 
 ## Methodology
-TBSS
-glmfit
+- TBSS
+- FSL glmfit
